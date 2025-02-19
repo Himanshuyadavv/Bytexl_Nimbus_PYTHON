@@ -93,6 +93,12 @@ The **QR Code Generator** is a tool that allows users to create custom QR codes.
 4. The program will generate a QR code image with the specified customization.
 5. The QR code is saved as `my_qrcode.png` by default.
 
+![image](https://github.com/user-attachments/assets/5d116ddd-62d6-49fc-a34c-3bdfe0de3483)
+
+![image](https://github.com/user-attachments/assets/921ed937-e324-4125-b9c5-4c642f6a8b44)
+
+
+
 ---
 
 ## Conclusion
