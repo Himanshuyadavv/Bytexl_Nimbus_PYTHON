@@ -5,7 +5,7 @@
 
 This repository contains a collection of beginner-friendly Python projects developed on the Nimbus platform. Each project is designed to help you understand basic Python concepts and improve your coding skills. Below is a detailed description of each project.
 
-![image](https://github.com/user-attachments/assets/67010997-a7f5-4f66-bc15-8144c7dc14da)
+
 
 ---
 
@@ -27,7 +27,10 @@ The **To-Do List Application** is a simple command-line tool that allows users t
 2. Follow the on-screen menu to add, view, edit, or delete tasks.
 3. Tasks are automatically saved and loaded from the `tasks.json` file.
 
+![image](https://github.com/user-attachments/assets/67010997-a7f5-4f66-bc15-8144c7dc14da)
+
 ---
+
 
 ## 2. Number Guessing Game
 
@@ -49,6 +52,7 @@ The **Number Guessing Game** is a fun and interactive game where the player trie
 
 ---
 
+
 ## 3. Password Generator
 
 ### Description:
@@ -69,6 +73,7 @@ The **Password Generator** is a tool that helps users create strong and secure p
 ![image](https://github.com/user-attachments/assets/79eab80f-60a7-4cbe-97c5-823cd96ae93c)
 
 ---
+
 
 ## 4. QR Code Generator
 
